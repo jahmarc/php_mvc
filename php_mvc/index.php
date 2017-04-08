@@ -12,6 +12,7 @@ print(SITE_NAME); print('<br>');
 print(ROOT_DIR); print('<br>');
 print(URL_DIR); print('<br>');
 exit;
+Giuseppe
 */
 
 //Load required classes automatically
